@@ -1,0 +1,13 @@
+{
+  "name": "cpc/student-penalty-system",
+  "description": "Role-based CPC student penalty and payment management system",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": "^8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-openssl": "*",
+    "endroid/qr-code": "^5.0"
+  }
+}
